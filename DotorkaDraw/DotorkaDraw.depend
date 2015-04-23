@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1429739326 source:c:\users\sammy\documents\workspacec++\dotorkadraw\main.cpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<algorithm>
+	<string>
+	<string.h>
+	<strings.h>
+	<Instruction.h>
+	<LinkedList.h>
+	<Color.h>
+	<Canvas.h>
+	<File.h>
+
+1429739495 c:\users\sammy\documents\workspacec++\dotorkadraw\include\instruction.h
+	<string>
+
+1429739360 c:\users\sammy\documents\workspacec++\dotorkadraw\include\linkedlist.h
+	<iostream>
+	<stdexcept>
+	<cstdlib>
+	<sstream>
+	<Node.h>
+
+1429739379 c:\users\sammy\documents\workspacec++\dotorkadraw\include\node.h
+
+1429739526 c:\users\sammy\documents\workspacec++\dotorkadraw\include\color.h
+	<algorithm>
+	<string>
+
+1429739486 c:\users\sammy\documents\workspacec++\dotorkadraw\include\canvas.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<winbgim.h>
+	<Turtle.h>
+	<string.h>
+	<File.h>
+
+1429739505 c:\users\sammy\documents\workspacec++\dotorkadraw\include\turtle.h
+	<math.h>
+	<iostream>
+	<winbgim.h>
+
+1429739517 c:\users\sammy\documents\workspacec++\dotorkadraw\include\file.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<sstream>
+	<LinkedList.h>
+	<Instruction.h>
+
